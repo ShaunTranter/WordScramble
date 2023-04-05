@@ -1,0 +1,11 @@
+body{
+    background-color: coral;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper{
+    background-color: white;
+    margin: 0 auto;
+    width: 700px;
+}
